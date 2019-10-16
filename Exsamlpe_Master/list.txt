@@ -1,0 +1,26 @@
+https://expressjs.com/en/starter/hello-world.html
+https://expressjs.com/en/guide/writing-middleware.html
+สารเส้นทาง
+#
+swig node js view engine
+https://devahoy.com/blog/2015/07/node-template-engine/
+วาดวิว
+#
+http://pm2.keymetrics.io/
+มอนิเตอร์เซอร์เวอร์
+#
+https://sequelize.org
+เช่ื่อมดาต้าเบส	เข้ามายเอสคิวแอล
+#
+https://github.com/GoogleChrome/puppeteer
+บราวเชอร์คอนโทล
+
+node thor browser
+https://www.npmjs.com/package/tor-request
+https://2019.www.torproject.org/docs/tor-doc-relay.html.en
+
+****
+https://medium.com/@mosprogramer/%E0%B8%A1%E0%B8%B2%E0%B9%83%E0%B8%8A%E0%B9%89-nodejs-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-bf77845e60bf
+
+https://www.google.com/search?q=exabytes&oq=exabytes&aqs=chrome..69i57j0l5.11826j0j7&sourceid=chrome&ie=UTF-8
+https://github.com/caddyserver/caddy?fbclid=IwAR3hLpplcJ2VvMTcHSI7oLQ8jhyUV7ZHMdfUElukfMGJmb0yIW8eNJFGE_M
