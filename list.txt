@@ -24,3 +24,15 @@ https://medium.com/@mosprogramer/%E0%B8%A1%E0%B8%B2%E0%B9%83%E0%B8%8A%E0%B9%89-n
 
 https://www.google.com/search?q=exabytes&oq=exabytes&aqs=chrome..69i57j0l5.11826j0j7&sourceid=chrome&ie=UTF-8
 https://github.com/caddyserver/caddy?fbclid=IwAR3hLpplcJ2VvMTcHSI7oLQ8jhyUV7ZHMdfUElukfMGJmb0yIW8eNJFGE_M
+
+monkeywebstudio.com/การใช้งาน-chart-js-สร้างกราฟ/
+
+https://quilljs.com/docs/modules/toolbar/
+https://draftjs.org/docs/api-reference-editor
+https://editorjs.io/
+ตัวเขียนบทความ
+
+http://www.passportjs.org/docs/google/
+https://segment.com/docs/destinations/google-analytics/#getting-started
+
+https://github.com/mrvautin/openKB
